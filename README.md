@@ -1,4 +1,4 @@
-# Enterprise Marketing Data Warehouse Architecture (11-File SQL Ecosystem)
+# Enterprise Marketing Data Warehouse Architecture
 
 ## 1. ASK
 - **Business Task:** Evaluate performance metrics (CTR, Conversion Rates) across multi-channel ad frameworks to optimize corporate marketing spending allocations.
