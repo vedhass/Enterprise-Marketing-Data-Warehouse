@@ -1,0 +1,3 @@
+-- This file documents database relationships for the engineering team
+-- campaigns.advertiser_id links to advertisers.advertiser_id
+-- ad_performance.campaign_id links to campaigns.campaign_id
